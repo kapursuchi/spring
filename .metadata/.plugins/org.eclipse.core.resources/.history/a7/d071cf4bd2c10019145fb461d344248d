@@ -1,0 +1,17 @@
+package com.luv2code.springdemo;
+
+import org.springframework.stereotype.Component;
+
+//Step 2: add the @Component annotation to java class
+//Spring will automatically register this bean (id="thatSillyCoach")
+
+@Component("thatSillyCoach")
+public class TennisCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+
+		return "Practice your backhand volley";
+	}
+
+}

@@ -11,17 +11,6 @@ public class Customer {
 	@NotNull(message="is required")
 	@Size(min = 1, message="is required")
 	private String lastName;
-	
-	//hello
-	private String freePasses;
-	
-	public String getFreePasses() {
-		return freePasses;
-	}
-
-	public void setFreePasses(String freePasses) {
-		this.freePasses = freePasses;
-	}
 
 	public String getFirstName() {
 		return firstName;

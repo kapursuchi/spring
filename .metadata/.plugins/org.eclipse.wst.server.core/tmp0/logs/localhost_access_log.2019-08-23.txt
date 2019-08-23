@@ -1,0 +1,2 @@
+127.0.0.1 - - [23/Aug/2019:10:27:14 -0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Aug/2019:10:27:15 -0700] "GET /spring-mvc-demo/WEB-INF/classes/com/luv2code/springdemo/mvc/Customer.java HTTP/1.1" 404 1047

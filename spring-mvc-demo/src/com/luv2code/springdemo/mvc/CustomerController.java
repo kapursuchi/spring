@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/customer")
 public class CustomerController {
 	
-	//commenting
+	
 	//add an initbinder... to convert trim input strings
 	//remove leading and trailing whitespace
 	//resolve issue for our validation
@@ -43,6 +43,10 @@ public class CustomerController {
 		//spring stores the result of the validation in the binding result
 		
 		System.out.println("Last name: |" + theCustomer.getLastName() + "|");
+		
+		System.out.println("Binding result: " + theBindingResult);
+		
+		System.out.println("\n\n\n\n");
 		
 		if (theBindingResult.hasErrors()) {
 			return "customer-form";

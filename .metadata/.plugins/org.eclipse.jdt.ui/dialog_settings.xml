@@ -36,6 +36,8 @@
 		<item key="create_unimplemented" value="true"/>
 	</section>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="552"/>
+		<item key="size.y" value="350"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
@@ -94,7 +96,7 @@
 		<item key="Comments" value="false"/>
 	</section>
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
-		<item key="OmitCallToSuper" value="false"/>
+		<item key="OmitCallToSuper" value="true"/>
 	</section>
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="67"/>

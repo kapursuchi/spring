@@ -11,6 +11,8 @@ C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \web-customer-tracker\src
 C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3659304352.index
 \web-customer-tracker-aop\src
+C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\796538011.index
+\spring-security-demo-06-csrf\src\main\java
 C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1321530066.index
 \spring-security-demo\src\main\java
 C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\185871768.index
@@ -21,5 +23,7 @@ C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \spring-security-demo-02-basic-security\src\main\java
 C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1552045829.index
 \spring-security-demo-05-logout\src\main\java
+C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3469264943.index
+\spring-security-demo-07-user-roles\src\main\java
 C:\Users\suchi\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2178144631.index
 \web-customer-tracker-aop\src

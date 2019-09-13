@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\suchi\Downloads\mycoolapp\mycoolapp"/>
+		<item value="C:\Users\suchi\Downloads\solution-code-spring-crm-rest-demo-delete-customer"/>
+		<item value="C:\Users\suchi\Downloads\solution-code-spring-crm-rest-demo-delete-customer.zip"/>
 		<item value="C:\Users\suchi\eclipse-workspace"/>
 	</list>
 </section>
